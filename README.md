@@ -10,8 +10,9 @@ I'm Balam a BBA Finance graduate passionate about data analytics. With hands-on 
 
 ## Featured Projects
 - [Customer-segmentation](https://github.com/balamrautela17-spec/Customer-segmentation)_
+- [Exploratory-Data-Analysis]()
+- [Regression-Analysis]()
 
-More projects coming soon!
 
 ## Let's Connect
 [Linkedin](https://www.linkedin.com/in/balam-singh17)
