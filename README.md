@@ -14,6 +14,7 @@ I'm Balam a BBA Finance graduate passionate about data analytics. With hands-on 
 
 
 ## Let's Connect
+I'm actively looking for Data Analyst roles and love connecting with fellow data enthusiasts!
 [Linkedin](https://www.linkedin.com/in/balam-singh17)
 
 
